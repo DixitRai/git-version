@@ -1,7 +1,5 @@
 hi i am finePizza
-jaideep
+
+Burger
 hotdog
-rasgulla
-pastery
-cake
 burger
