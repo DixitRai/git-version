@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-hi i am fine
- Pizza
- burger
- hotdog
-=======
+hi i am finePizza
 
->>>>>>> parent of 7a6a99c... hotdog
+hotdog
+rasgulla
+pastery
+cake
+burger
